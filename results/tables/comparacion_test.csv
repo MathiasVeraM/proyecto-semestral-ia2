@@ -1,0 +1,5 @@
+modelo,f1_weighted,f1_macro,accuracy,recall_clase2,latencia_media_ms,latencia_p95_ms
+Mayoritaria,0.28,0.207,0.451,0.0,0.033,0.046
+TF-IDF + LR,0.892,0.88,0.892,0.792,0.895,1.018
+TF-IDF + LR (balanceado),0.893,0.877,0.892,0.792,,
+BETO,0.961,0.956,0.961,0.958,9.517,12.003
