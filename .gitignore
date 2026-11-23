@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+checkpoints/
+models/
+*.pt
+*.bin
+*.safetensors
+.DS_Store
